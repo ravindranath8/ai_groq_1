@@ -2,7 +2,7 @@
 streamlit
 requests
 dotenv
-pip install --upgrade pip
+
 
 langchain
 langchain-community 
