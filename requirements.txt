@@ -1,24 +1,15 @@
 # youtube url https://www.youtube.com/watch?v=-uGZFyO9O5k
-streamlit
 requests
 dotenv
-
-
 langchain
 langchain-community 
 langchain-community==0.3.13
-
-GROQ_API_KEY=="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"
-streamlit==24.3.1
-
+#GROQ_API_KEY=="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"
 langchain==0.3.13
-pip install streamlit==24.3.1
 pip install langchain
 pip install dotenv
 pip install groq
 pip install langchain-groq
 pip install langchain==0.3.13
 pip install groq==0.13.1
-pip install streamlit==1.41.1
-
 pip cache purge
