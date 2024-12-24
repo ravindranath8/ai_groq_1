@@ -115,7 +115,7 @@ def setup_sidebar():
         # Model selection
         model = st.selectbox(
             'Choose a model',
-            ['mixtral-8x7b-32768', 'llama3-70b-8192', 'llama3-8b-8192', 'whisper-large-v3-turbo'],
+            ['mixtral-8x7b-32768'],
             help="Select the AI model for your conversation"
         )
 
